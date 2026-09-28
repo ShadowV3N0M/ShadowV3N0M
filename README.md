@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sagar Pokhariyal @ShadowV3N0M<br> 👀 I’m interested in AI - ML/ Gen AI Developement<br> 🌱 I’m currently learning Python and AI/ML<br> 📫 How to reach me pokhariyalsagar@gmail.com , https://linkedin.com/in/sagar-pokhariyal-07622028a<br> 😄 Pronouns: He/him<br> ⚡ Fun fact: ...<br>🔭 I’m currently working on JAva / Python RPA<br>👯 I’m looking to collaborate on AI ML Projects<br>🤝 I’m looking for help with collabarating in  projects<br>🌱 I’m currently learning GEN AI and AI Ml Technologies<br>💬 Ask me about my life journey in Software Development<br>⚡ Fun fact: also have some experience in Android Development
+👋 Hi, I’m Sagar Pokhariyal @ShadowV3N0M<br> 👀 I’m interested in AI - ML/ Gen AI Developement<br> 🌱 I’m currently learning Python and AI/ML<br> 📫 How to reach me pokhariyalsagar@gmail.com , https://linkedin.com/in/sagar-pokhariyal-07622028a<br> 😄 Pronouns: He/him<br> ⚡ Fun fact: ...<br>🔭 I’m currently working on Java / Python RPA<br>👯 I’m looking to collaborate on AI ML Projects<br>🤝 I’m looking for help with collabarating in  projects<br>🌱 I’m currently learning GEN AI and AI Ml Technologies<br>💬 Ask me about my life journey in Software Development<br>⚡ Fun fact: also have some experience in Android Development
 
 
 ## 🌐 Socials:
